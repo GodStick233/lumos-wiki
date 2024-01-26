@@ -2,6 +2,10 @@
 
 本页以时间倒序收集并展示从首次公演以来的所有公演信息和视频。
 
+## 2024
+
+
+
 ## 2023
 
 ### Lumos 跨年联欢会 12.31
@@ -16,6 +20,57 @@ OFF会，限定21张票，20:30入场。参与人员：Lumos荧光计划 & iNe S
 - 特典会（大约3小时）
 - 隐藏环节————深夜游戏对决（Miki参加）
 
+### ～CLOCKWORK HEART 心动发条～DOKI十二周年感谢祭 8.27
+
+12年間 みんなの心をドキドキする 转动发条 启动未来心跳
+
+地点：IMAGINE想象空间
+
+歌单：
+
+
+### 摩天轮之夜 非正式音乐会 8.26
+
+Live活动——多巴胺进行时🎡
+Lumos荧光计划将与大家在摩天轮之夜非正式音乐会见面哦！
+
+地点：龙潭中湖公园摩天轮下 
+
+歌单：
+1. 001
+2. 
+
+### Lumos Idol Party vol.2 8.13
+
+🍰新场地·解锁🎉
+
+地点：D3现场·Livehouse
+
+歌单：
+
+相关视频：
+- [230813-Lumos Idol Party vol.2](https://www.bilibili.com/video/BV1du4y1i7Z8)
+
+
+
+
+### Lumos Idol Live vol.10 8.12
+
+🎉偶像拼盘公演🪁
+
+地点：西单魅现场
+
+歌单：
+1. 001
+2. モブ
+3. シダレヤナギ
+4. RAKUEN
+
+相关视频：
+- [230812-Lumos Idol Live vol.10 公演](https://www.bilibili.com/video/BV1bz4y1g7ir)
+
+合影:
+![2023.8.12](./assets/20230812.jpg)
 ### Lumos Idol Live vol.9 7.23
 
 “是那首歌”——Anisong主题公演。全员Cos！
